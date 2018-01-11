@@ -1,0 +1,2 @@
+# S4HANASpotOn-AWS-ZHY
+帮助你利用AWS宁夏区域的SPOT INSTANCE以低成本的方式运行SAP S/4 HANA 1709 IDES环境
